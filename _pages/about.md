@@ -7,23 +7,18 @@ redirect_from:
   - /about.html
 ---
 
- I am a Ph.D. student at Purdue University's Electrical and Computer Engineering department in the [Trustworthy Software Ecosystems Lab](https://tselab.github.io/), where I work on securing software supply chains under the guidance of Dr. [Santiago Torres-Arias](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238320)
+ I am a Ph.D. candidate at Purdue University's Electrical and Computer Engineering department in the [Trustworthy Software Ecosystems Lab](https://tselab.github.io/), where I work on securing software supply chains under the guidance of Dr. [Santiago Torres-Arias](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=238320).
 
-
-
-## Service
-
-- Program Committe, ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses 2025 (SCORED'25)
-- Mentoring-Meet Coordinator, IEEE Region 4 Young Professionals (2025 - present)
-- Treasurer, Engineering Academic Career Club, College of Engineering, Purdue University (2025 - present).
-- Program Committe, Linux Foundation SigstoreCon 2024: Supply Chain Day
-- Judge, Purdue 2024 SURF Symposium posters
-- External Reviewer, IEEE S&P'24
-- Judge, Purdue 2023 Fall Undergraduate Research Expo
 
 
 ## News
+
+- **June 2026:**
+  - Our paper, *"Context-Aware Trust Verification for Identity-Based Software Signing"* has been accepted to ASE 2026!
+- **April 2026:**
+  - I was selected as a recipient of the 2026 Rolls-Royce Fellowship!
 - **Dec 2025:**
+  - I will be interning with the Cloudflare Cloud Access Security Broker (CASB) team next summer!
   - I'm a finalist for the 2026 NCWIT AiC Collegiate Award!
   - Our paper, *"Trustworthy and Confidential SBOM Exchange"* has been accepted to USENIX Security 2026! [Preprint here](https://arxiv.org/pdf/2509.13217)
 - **June 2025:** I'll be serving on ACM SCORED 2025 PC!
@@ -38,3 +33,14 @@ redirect_from:
 - **Sept 2023:** Awarded the Dan Kohn Scholarship for KubeCon + CloudNativeCon North America 2023. Thanks, CNCF!
 - **Feb 2023:** Accepted into the 2023A class of Google’s CS Research Mentorship Program (CSRMP)!
 - **Sept 2022:** Our paper, *“SoK: Analysis of Software Supply Chain Security by Establishing Secure Design Properties”*, was accepted to SCORED 2022! [![PDF](https://img.icons8.com/ios-filled/20/000000/pdf.png)](https://dl.acm.org/doi/pdf/10.1145/3560835.3564556)
+
+
+## Service
+
+- Program Committe, ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses 2025 (SCORED'25)
+- Mentoring-Meet Coordinator, IEEE Region 4 Young Professionals (2025 - present)
+- Treasurer, Engineering Academic Career Club, College of Engineering, Purdue University (2025 - present).
+- Program Committe, Linux Foundation SigstoreCon 2024: Supply Chain Day
+- Judge, Purdue 2024 SURF Symposium posters
+- External Reviewer, IEEE S&P'24
+- Judge, Purdue 2023 Fall Undergraduate Research Expo

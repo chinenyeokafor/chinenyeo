@@ -4,4 +4,4 @@ Check out my [homepage](https://chinenyeokafor.github.io/) for more information 
 
 ---
 
-*Last updated: August 2024*
+*Last updated: August 2026*
